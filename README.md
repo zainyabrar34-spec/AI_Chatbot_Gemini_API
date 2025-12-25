@@ -1,4 +1,3 @@
-# AI_Chatbot_Gemini_API
 import google.generativeai as genai
 
 api_key = input("Enter your Gemini API key: ")
